@@ -1,11 +1,10 @@
-# Blue Window SEO theme
+# Blue Window SEO Hugo theme component
 
-A lightweight Hugo theme that leverage json seo output for post processing
-
+A lightweight Hugo theme component that leverage json seo output for post processing
 
 ## Features
 
-- Generate json file with SEO information for each page
+- Generate json (extension :.seo) file with SEO information for each page
 
 Optional features:
 
