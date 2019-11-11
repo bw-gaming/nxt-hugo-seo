@@ -1,0 +1,13 @@
+[outputFormats]
+  [outputFormats.SEO]
+    name = "SEO"
+    baseName = "index"
+    isPlainText = "false"
+    mediaType = "text/seo"
+    notAlternative = "true"
+    path = "bw-seo"
+
+[mediaTypes]
+  [mediaTypes."text/seo"]
+    suffixes = ["seo", "xeo"]
+ 

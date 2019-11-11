@@ -1,0 +1,9 @@
+{
+    "title": "{{ .Title }}",
+    "pagetitle": "{{ .Params.pagetitle }}",
+    "tags": "{{ .Params.tags }}",
+    "date": "{{ .Date }}",
+    "type": "{{ .Type }}",
+    "permalink" : "{{ .Permalink }}",
+    "summary" : "{{ .Summary }}"
+}
