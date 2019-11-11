@@ -9,5 +9,5 @@
 
 [mediaTypes]
   [mediaTypes."text/seo"]
-    suffixes = ["seo", "xeo"]
+    suffixes = ["seo"]
  
